@@ -1,4 +1,4 @@
-\"use client\";
+"use client";
 import FeatureCard from "./FeatureCard";
 
 const features = [

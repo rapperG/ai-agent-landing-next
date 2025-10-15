@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Agent Landing (Next.js + Three.js + Tailwind)
 
 ### 🚀 Features
@@ -25,3 +26,7 @@ git push -u origin main
 ```
 
 Then deploy instantly at https://vercel.com
+=======
+# ai-agent-landing-next
+AI Agent Landing (Next.js + Three.js + Tailwind)
+>>>>>>> 90a3ed04efcff930274d77d8f162caffde3600a4
